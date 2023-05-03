@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Mert<br><br>💻Computer Engineering Student<br><br><br>🔭 I'm a Jr.Penetration Tester who is passionate about external pentest<br><br>🌱 I’m currently C and Python<br><br>💬 Ask me aboutC++<br><br>⚡ Fun fact, Human error accounts for 95% of all data breaches<br>
+👋 Hi there! I'm Mert<br><br>💻Computer Engineering Student<br><br><br>🔭 I'm a Jr.Penetration Tester who is passionate about external pentest<br><br>🌱 I’m currently learning C and Python<br><br>💬 Ask me aboutC++<br><br>⚡ Fun fact, Human error accounts for 95% of all data breaches<br>
 
 
 ## 🌐 Socials:
