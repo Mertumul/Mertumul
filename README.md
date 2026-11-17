@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Mert
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/lIMtjiAYuT8AAAAC/breezy-hacker.gif">
-<br><br>💻Computer Engineering Student<br><br>🔭 I'm a Jr.Penetration Tester <br><br>🌱 I’m currently learning C and Go<br><br>💬 Ask me about Python<br><br>⚡ Fun fact, Human error accounts for 95% of all data breaches<br>
+<br><br>💻Computer Engineer<br><br>🔭 I'm a Penetration Tester <br>
 
 
 ## 🌐 Socials:
